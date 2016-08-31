@@ -1,4 +1,4 @@
-# Машинное обучение и анализ данных
+# Машинное обучение и анализ данных.
 
 [Специализация на Coursera](https://www.coursera.org/specializations/mashinnoye-obucheniye) от МФТИ и Yandex Data Factory
 
