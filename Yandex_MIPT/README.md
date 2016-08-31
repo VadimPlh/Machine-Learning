@@ -11,4 +11,4 @@
 5. Прикладные задачи анализа данных
 6. Анализ данных: финальный проект
 
-[![](/header.jpg)](https://www.coursera.org/specializations/mashinnoye-obucheniye)
+[![](header.jpg)](https://www.coursera.org/specializations/mashinnoye-obucheniye)
